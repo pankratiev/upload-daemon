@@ -1,0 +1,3 @@
+include backend/config/deployment.ini_tmpl
+recursive-include backend/public *
+recursive-include backend/templates *
